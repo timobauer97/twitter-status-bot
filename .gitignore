@@ -1,5 +1,5 @@
 # NEVER push your api key or secret!
-# config/twitter_api_keys.py
+config/twitter_api_keys.py
 
 # Generic .gitignore from https://github.com/github/gitignore/blob/master/Python.gitignore
 # Byte-compiled / optimized / DLL files
